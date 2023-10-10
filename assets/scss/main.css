@@ -58,4 +58,9 @@
 .container .keys div:nth-child(8) {
   color: #000;
   border: 5px double black;
+}
+.container .keys .active {
+  transform: scale(1.1);
+  transition: 0.8;
+  box-shadow: 0 0 10px #ffc600;
 }/*# sourceMappingURL=main.css.map */
